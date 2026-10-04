@@ -539,7 +539,7 @@ CONFIG_KP_DEFAULT_MODE=0
 CONFIG_AUTO_KPROFILES_NONE=y
 
 # Simple Low Memory Killer
-CONFIG_SIMPLE_LMK=y
+# CONFIG_SIMPLE_LMK is not set
 
 # Droidspaces container runtime — IPC, namespaces, networking
 CONFIG_SYSVIPC=y
